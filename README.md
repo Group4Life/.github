@@ -1,8 +1,4 @@
 <div align="center">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/Hfd0DSF2054" title="κουμπί s.o.s - άμεση επικοινωνία με τους τηλεφωνητές μας" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div align="center">
 <a href="https://www.group4life.com/">
     <img
       src="https://www.group4life.com/images/logo.png"
