@@ -2,7 +2,7 @@
 <a href="https://www.group4life.com/">
     <img
       src="https://www.group4life.com/images/logo.png"
-      alt="CI"
+      alt="LOGO"
     />
   </a>
 </div>
