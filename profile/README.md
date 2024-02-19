@@ -13,6 +13,6 @@ Group4Life boasts state-of-the-art technology and a highly skilled team of profe
 
 <div align="center">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=6V0F60rtTWc" target="_blank">
-        <img src="http://img.youtube.com/vi/6V0F60rtTWc/0.jpg" alt="promo" width="640" height="360" border="10" />
+        <img src="http://img.youtube.com/vi/6V0F60rtTWc/0.jpg" alt="promo" width="720" height="480" border="10" />
     </a>
 </div>
